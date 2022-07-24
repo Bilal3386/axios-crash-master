@@ -114,6 +114,7 @@ function errorHandling() {
     {
       console.log(error.request);
     }
+    
     else{
       console.log(error.message);
     }
